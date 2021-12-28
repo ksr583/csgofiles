@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!autoexec.cfg
+!buybinds.cfg
+!practice.cfg
+# etc...
+
+# ...even if they are in subdirectories
+!*/
